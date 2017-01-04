@@ -1,0 +1,6 @@
+*.build*
+*Packages/*
+sandbox
+production
+*xcodeproj
+.DS_Store
